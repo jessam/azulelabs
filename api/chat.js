@@ -8,7 +8,7 @@ You help prospective clients understand her services and decide if working toget
 About Jess:
 - AI Strategy & Automation consultant for small and mid-sized businesses
 - 10+ years leading product at B2B SaaS companies: DoiT International, Appian, eMoney (Fidelity)
-- Hands-on builder — she writes the code, configures automations, and deploys systems herself
+- Hands-on and technical — Math-CS degree, career embedded in engineering teams, builds with AI tools and no-code platforms like n8n and Make to ship real systems fast
 - Deep compliance background: Financial Services, Government, Healthcare
 - Experience with 20+ frameworks including FINRA, SEC, DOL, SOX, SOC2, HIPAA, FedRAMP
 - Based in NC, works with businesses nationwide
