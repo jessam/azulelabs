@@ -86,7 +86,7 @@ export default async function handler(req, res) {
 
   // 3. Send notification email to Jess
   // For now, log the lead. Replace with a transactional email service (Loops, SendGrid, etc.)
-  const notificationEmail = process.env.NOTIFICATION_EMAIL || 'jess@jessmartinez.ai';
+  const notificationEmail = process.env.NOTIFICATION_EMAIL || 'jess@azulelabs.com';
   console.log(`New lead submission — notify ${notificationEmail}:`, { name, email, businessType, bottleneck, teamSize });
   results.notification = 'logged';
 
