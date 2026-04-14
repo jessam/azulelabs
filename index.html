@@ -799,6 +799,10 @@
     .reveal.visible { opacity: 1; transform: translateY(0); }
 
     /* RESPONSIVE */
+    @media (max-width: 900px) {
+      .services-grid { grid-template-columns: 1fr; }
+    }
+
     @media (max-width: 768px) {
       .about-grid { grid-template-columns: 1fr; gap: 3rem; }
     }
@@ -807,7 +811,6 @@
       nav ul { display: none; }
       .hero { padding: 5rem 0 3.5rem; }
       .hero-proof { gap: 2rem; }
-      .services-grid { grid-template-columns: 1fr; }
       .steps::before { display: none; }
       .form-row { grid-template-columns: 1fr; }
 
