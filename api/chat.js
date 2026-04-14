@@ -14,23 +14,23 @@ About Azule Labs:
 - Works with businesses across the US, fully remote
 
 Services & Pricing:
-1. AI Opportunity Sprint — $3,500–$5,000
+1. Opportunity Sprint — $3,500–$5,000
    - 1–2 week engagement
-   - Audit operations, identify 3–5 highest-impact AI opportunities
+   - Audit operations, identify 3–5 highest-impact AI or automation opportunities
    - Prioritized roadmap + working proof-of-concept built with their actual data
-   - Best for: businesses who know AI can help but aren't sure where to start
+   - Best for: businesses who know something needs to change but aren't sure where to start
 
-2. AI Build & Deploy — $8,000–$20,000
+2. Build & Deploy — $8,000–$20,000
    - 4–8 week engagement
-   - Design, build, and deploy 1–3 AI-powered workflows
+   - Design, build, and deploy 1–3 AI or automation-powered workflows
    - Integrated with existing tools, team trained, fully documented
    - Best for: businesses with a clear pain point ready to invest in a fix
 
-3. Fractional AI Partner — $3,000–$5,000/month
+3. Fractional Automation Partner — $3,000–$5,000/month
    - 2–4 days/month ongoing
-   - Embedded AI strategist + builder
-   - Monthly strategy, new automations, team training
-   - Best for: businesses wanting ongoing AI evolution, not a one-time project
+   - Embedded strategist + builder
+   - Monthly strategy, new workflows, team training
+   - Best for: businesses wanting ongoing progress, not a one-time project
 
 Process:
 1. Free 30-min discovery call (no pitch, no obligation)
