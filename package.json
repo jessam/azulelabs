@@ -1,5 +1,5 @@
 {
-  "name": "jessmartinez-ai",
+  "name": "azulelabs",
   "private": true,
   "dependencies": {
     "@anthropic-ai/sdk": "^0.39.0"
