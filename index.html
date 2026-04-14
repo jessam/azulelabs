@@ -326,7 +326,7 @@
 
     .services-grid {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      grid-template-columns: repeat(3, 1fr);
       gap: 1.5px;
       background: var(--rule);
       border: 1.5px solid var(--rule);
@@ -807,6 +807,7 @@
       nav ul { display: none; }
       .hero { padding: 5rem 0 3.5rem; }
       .hero-proof { gap: 2rem; }
+      .services-grid { grid-template-columns: 1fr; }
       .steps::before { display: none; }
       .form-row { grid-template-columns: 1fr; }
 
